@@ -1,6 +1,6 @@
 [
     {
-        "caption": "iA Writer: Open file in iA Writer",
-        "command": "open_in_ia_writer_command"
+        "caption": "iA Writer: Open current file in iA Writer",
+        "command": "open_in_ia_writer"
     }
 ]
