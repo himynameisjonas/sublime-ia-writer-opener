@@ -1,3 +1,3 @@
 [
-        { "keys": [ "ctrl+alt+i" ], "command": "open_in_ia_writer_command" }
+        { "keys": [ "ctrl+alt+i" ], "command": "open_in_ia_writer" }
 ]
